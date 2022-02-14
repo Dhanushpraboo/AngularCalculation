@@ -181,7 +181,7 @@ export class AppModule { }
 
 ~~~
 ## OUTPUT:
-![](cl.png)
+![](cal.png)
 
 ## Result:
 This is code is executed successfully to create a webpage to make mathematical calculations using angular.
